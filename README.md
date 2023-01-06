@@ -1,5 +1,7 @@
 # Python
 
+```python
+
 ## Integer ( Tam Sayı )
 print(5 + 6)
 
@@ -896,6 +898,8 @@ with open("Myfile.txt", mode = "a") as my_new_file3: ## ---> r -> Okumak için �
 with open("Myfile.txt", mode = "r") as my_new_file4: ## ---> r -> Okumak için çalıştır. Sadece okuma izni. w -> Yazma izni a -> eklemek.
 
     my_new_file_read4 = my_new_file4.read()
+    
+```
 
 
 
